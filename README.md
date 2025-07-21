@@ -2,8 +2,8 @@
 
 ### profile
 
-###projects
+### projects
 
-###gallery
+### gallery
 
-###CV
+### CV
